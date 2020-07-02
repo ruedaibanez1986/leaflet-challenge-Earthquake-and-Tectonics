@@ -1,0 +1,35 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#map,
+body,
+html {
+	height: 100%;
+}
+.legend {
+	padding: 5px;
+	font-family: monospace;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 18px;
+	color: rgb(37, 30, 30);
+	background-color: rgba(143, 138, 138, 0.507);
+}
+
+.fourfive {
+	background-color: rgb(233, 8, 8);
+}
+
+.three {
+	background-color: rgb(255, 157, 0);
+}
+
+.onefive {
+	background-color: rgb(233, 218, 9);
+}
+
+.under {
+	background-color: rgb(5, 99, 28);
+}
